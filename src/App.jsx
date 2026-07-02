@@ -1,11 +1,21 @@
+import Header from "./components/Header";
+import BasePlanner from "./pages/BasePlanner";
+import "./App.css";
+
 function App() {
   return (
-    <div>
-      <h1>Palworld Base Planner</h1>
+    <div className="app">
+      <Header />
 
-      <p>Version 0.1</p>
+      <nav className="nav">
+        <button>Home</button>
+        <button>Base Planner</button>
+        <button>Best Pals</button>
+        <button>Pal Database</button>
+        <button>My Collection</button>
+      </nav>
 
-      <p>Created by Marah</p>
+      <BasePlanner />
     </div>
   );
 }

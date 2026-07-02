@@ -1,0 +1,2186 @@
+[
+  {
+    "id": 1,
+    "name": "Anubis",
+    "elements": [
+      "Ground"
+    ],
+    "work": {
+      "Handiwork": 4,
+      "Transporting": 2,
+      "Mining": 3
+    }
+  },
+  {
+    "id": 2,
+    "name": "Arsox",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 2,
+      "Lumbering": 1
+    }
+  },
+  {
+    "id": 3,
+    "name": "Astegon",
+    "elements": [
+      "Dark",
+      "Dragon"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Mining": 4
+    }
+  },
+  {
+    "id": 4,
+    "name": "Azurobe",
+    "elements": [
+      "Water",
+      "Dragon"
+    ],
+    "work": {
+      "Watering": 3
+    }
+  },
+  {
+    "id": 5,
+    "name": "Bastigor",
+    "elements": [
+      "Ice"
+    ],
+    "work": {
+      "Lumbering": 3,
+      "Mining": 3,
+      "Cooling": 4
+    }
+  },
+  {
+    "id": 6,
+    "name": "Beakon",
+    "elements": [
+      "Electric"
+    ],
+    "work": {
+      "Transporting": 3,
+      "Electricity": 2,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 7,
+    "name": "Beegarde",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 1,
+      "Handiwork": 1,
+      "Lumbering": 1,
+      "Medicine Production": 1,
+      "Transporting": 2,
+      "Gathering": 1,
+      "Farming": 1
+    }
+  },
+  {
+    "id": 8,
+    "name": "Bellanoir",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Medicine Production": 4,
+      "Transporting": 2
+    }
+  },
+  {
+    "id": 9,
+    "name": "Bellanoir Libero",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Medicine Production": 4,
+      "Transporting": 2
+    }
+  },
+  {
+    "id": 10,
+    "name": "Blazamut",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 3,
+      "Mining": 4
+    }
+  },
+  {
+    "id": 11,
+    "name": "Blazamut Ryu",
+    "elements": [
+      "Fire",
+      "Dragon"
+    ],
+    "work": {
+      "Kindling": 4,
+      "Mining": 4
+    }
+  },
+  {
+    "id": 12,
+    "name": "Blazehowl",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 3,
+      "Lumbering": 2
+    }
+  },
+  {
+    "id": 13,
+    "name": "Blazehowl Noct",
+    "elements": [
+      "Fire",
+      "Dark"
+    ],
+    "work": {
+      "Kindling": 3,
+      "Lumbering": 2
+    }
+  },
+  {
+    "id": 14,
+    "name": "Blue Slime",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Transporting": 1
+    }
+  },
+  {
+    "id": 15,
+    "name": "Braloha",
+    "elements": [
+      "Grass",
+      "Ground"
+    ],
+    "work": {
+      "Planting": 4,
+      "Gathering": 4,
+      "Mining": 2
+    }
+  },
+  {
+    "id": 16,
+    "name": "Bristla",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 1,
+      "Handiwork": 1,
+      "Medicine Production": 2,
+      "Transporting": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 17,
+    "name": "Broncherry",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 3
+    }
+  },
+  {
+    "id": 18,
+    "name": "Broncherry Aqua",
+    "elements": [
+      "Water",
+      "Grass"
+    ],
+    "work": {
+      "Watering": 3
+    }
+  },
+  {
+    "id": 19,
+    "name": "Bushi",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 2,
+      "Handiwork": 1,
+      "Lumbering": 3,
+      "Transporting": 2,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 20,
+    "name": "Bushi Noct",
+    "elements": [
+      "Fire",
+      "Dark"
+    ],
+    "work": {
+      "Kindling": 2,
+      "Handiwork": 1,
+      "Lumbering": 3,
+      "Transporting": 2,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 21,
+    "name": "Caprity",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 2,
+      "Farming": 1
+    }
+  },
+  {
+    "id": 22,
+    "name": "Caprity Noct",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Planting": 2,
+      "Farming": 1
+    }
+  },
+  {
+    "id": 23,
+    "name": "Cattiva",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Gathering": 1,
+      "Mining": 1
+    }
+  },
+  {
+    "id": 24,
+    "name": "Cawgnito",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Lumbering": 1
+    }
+  },
+  {
+    "id": 25,
+    "name": "Celaray",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Transporting": 1,
+      "Watering": 1
+    }
+  },
+  {
+    "id": 26,
+    "name": "Celaray Lux",
+    "elements": [
+      "Water",
+      "Electric"
+    ],
+    "work": {
+      "Transporting": 1,
+      "Watering": 1,
+      "Electricity": 1
+    }
+  },
+  {
+    "id": 27,
+    "name": "Celesdir",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Lumbering": 4,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 28,
+    "name": "Chillet Ignis",
+    "elements": [
+      "Fire",
+      "Dragon"
+    ],
+    "work": {
+      "Kindling": 2,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 29,
+    "name": "Cinnamoth",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 2,
+      "Medicine Production": 1
+    }
+  },
+  {
+    "id": 30,
+    "name": "Croajiro",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Watering": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 31,
+    "name": "Croajiro Noct",
+    "elements": [
+      "Water",
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Watering": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 32,
+    "name": "Cryolinx",
+    "elements": [
+      "Ice"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Lumbering": 2,
+      "Transporting": 3,
+      "Cooling": 3
+    }
+  },
+  {
+    "id": 33,
+    "name": "Cryolinx Terra",
+    "elements": [
+      "Ground"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Lumbering": 2,
+      "Transporting": 3,
+      "Mining": 3
+    }
+  },
+  {
+    "id": 34,
+    "name": "Daedream",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 35,
+    "name": "Dazzi",
+    "elements": [
+      "Electric"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Electricity": 1
+    }
+  },
+  {
+    "id": 36,
+    "name": "Dazzi Noct",
+    "elements": [
+      "Electric",
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Medicine Production": 1,
+      "Transporting": 1,
+      "Electricity": 1
+    }
+  },
+  {
+    "id": 37,
+    "name": "Demon Eye",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Transporting": 1
+    }
+  },
+  {
+    "id": 38,
+    "name": "Depresso",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Mining": 1
+    }
+  },
+  {
+    "id": 39,
+    "name": "Digtoise",
+    "elements": [
+      "Ground"
+    ],
+    "work": {
+      "Mining": 3
+    }
+  },
+  {
+    "id": 40,
+    "name": "Dinossom",
+    "elements": [
+      "Grass",
+      "Dragon"
+    ],
+    "work": {
+      "Planting": 2,
+      "Lumbering": 2
+    }
+  },
+  {
+    "id": 41,
+    "name": "Dinossom Lux",
+    "elements": [
+      "Electric",
+      "Dragon"
+    ],
+    "work": {
+      "Lumbering": 2,
+      "Electricity": 2
+    }
+  },
+  {
+    "id": 42,
+    "name": "Dogen",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Handiwork": 3,
+      "Lumbering": 2,
+      "Medicine Production": 1,
+      "Transporting": 2,
+      "Gathering": 2
+    }
+  },
+  {
+    "id": 43,
+    "name": "Dumud",
+    "elements": [
+      "Ground"
+    ],
+    "work": {
+      "Transporting": 1,
+      "Watering": 1,
+      "Mining": 2,
+      "Farming": 1
+    }
+  },
+  {
+    "id": 44,
+    "name": "Dumud Gild",
+    "elements": [
+      "Water",
+      "Ground"
+    ],
+    "work": {
+      "Transporting": 1,
+      "Watering": 1,
+      "Mining": 2,
+      "Farming": 1
+    }
+  },
+  {
+    "id": 45,
+    "name": "Eikthyrdeer",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Lumbering": 2
+    }
+  },
+  {
+    "id": 46,
+    "name": "Eikthyrdeer Terra",
+    "elements": [
+      "Ground"
+    ],
+    "work": {
+      "Lumbering": 2
+    }
+  },
+  {
+    "id": 47,
+    "name": "Elizabee",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 2,
+      "Handiwork": 2,
+      "Lumbering": 1,
+      "Medicine Production": 2,
+      "Gathering": 2
+    }
+  },
+  {
+    "id": 48,
+    "name": "Elphidran",
+    "elements": [
+      "Dragon"
+    ],
+    "work": {
+      "Lumbering": 2
+    }
+  },
+  {
+    "id": 49,
+    "name": "Elphidran Aqua",
+    "elements": [
+      "Water",
+      "Dragon"
+    ],
+    "work": {
+      "Lumbering": 2,
+      "Watering": 3
+    }
+  },
+  {
+    "id": 50,
+    "name": "Enchanted Sword",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Lumbering": 1
+    }
+  },
+  {
+    "id": 51,
+    "name": "Eye of Cthulu",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Transporting": 4
+    }
+  },
+  {
+    "id": 52,
+    "name": "Faleris",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 3,
+      "Transporting": 3
+    }
+  },
+  {
+    "id": 53,
+    "name": "Faleris Aqua",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Transporting": 3,
+      "Watering": 4
+    }
+  },
+  {
+    "id": 54,
+    "name": "Felbat",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Medicine Production": 3
+    }
+  },
+  {
+    "id": 55,
+    "name": "Fenglope",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Lumbering": 2
+    }
+  },
+  {
+    "id": 56,
+    "name": "Fenglope Lux",
+    "elements": [
+      "Electric"
+    ],
+    "work": {
+      "Lumbering": 2,
+      "Electricity": 2
+    }
+  },
+  {
+    "id": 57,
+    "name": "Finsider",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Transporting": 1,
+      "Watering": 2
+    }
+  },
+  {
+    "id": 58,
+    "name": "Finsider Ignis",
+    "elements": [
+      "Fire",
+      "Water"
+    ],
+    "work": {
+      "Kindling": 2,
+      "Transporting": 1,
+      "Watering": 2
+    }
+  },
+  {
+    "id": 59,
+    "name": "Flambelle",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 1,
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Farming": 1
+    }
+  },
+  {
+    "id": 60,
+    "name": "Flopie",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 1,
+      "Handiwork": 1,
+      "Medicine Production": 1,
+      "Transporting": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 61,
+    "name": "Foxparks",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 1
+    }
+  },
+  {
+    "id": 62,
+    "name": "Fuack",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Watering": 1
+    }
+  },
+  {
+    "id": 63,
+    "name": "Fuack Ignis",
+    "elements": [
+      "Fire",
+      "Water"
+    ],
+    "work": {
+      "Kindling": 1,
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Watering": 1
+    }
+  },
+  {
+    "id": 64,
+    "name": "Fuddler",
+    "elements": [
+      "Ground"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Mining": 1
+    }
+  },
+  {
+    "id": 65,
+    "name": "Ghangler",
+    "elements": [
+      "Water",
+      "Dark"
+    ],
+    "work": {
+      "Transporting": 2,
+      "Watering": 4
+    }
+  },
+  {
+    "id": 66,
+    "name": "Ghangler Ignis",
+    "elements": [
+      "Fire",
+      "Water"
+    ],
+    "work": {
+      "Kindling": 3,
+      "Transporting": 2,
+      "Watering": 4
+    }
+  },
+  {
+    "id": 67,
+    "name": "Gloopie",
+    "elements": [
+      "Water",
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Transporting": 2,
+      "Watering": 2
+    }
+  },
+  {
+    "id": 68,
+    "name": "Gobfin",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Watering": 2
+    }
+  },
+  {
+    "id": 69,
+    "name": "Gobfin Ignis",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 2,
+      "Handiwork": 1,
+      "Transporting": 1
+    }
+  },
+  {
+    "id": 70,
+    "name": "Gorirat",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Lumbering": 2,
+      "Transporting": 3
+    }
+  },
+  {
+    "id": 71,
+    "name": "Gorirat Terra",
+    "elements": [
+      "Ground"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 3,
+      "Mining": 2
+    }
+  },
+  {
+    "id": 72,
+    "name": "Green Slime",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Transporting": 1
+    }
+  },
+  {
+    "id": 73,
+    "name": "Grizzbolt",
+    "elements": [
+      "Electric"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Lumbering": 2,
+      "Transporting": 3,
+      "Electricity": 3
+    }
+  },
+  {
+    "id": 74,
+    "name": "Gumoss",
+    "elements": [
+      "Grass",
+      "Ground"
+    ],
+    "work": {
+      "Planting": 1
+    }
+  },
+  {
+    "id": 75,
+    "name": "Hangyu",
+    "elements": [
+      "Ground"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 2,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 76,
+    "name": "Hangyu Cryst",
+    "elements": [
+      "Ice"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 2,
+      "Gathering": 1,
+      "Cooling": 1
+    }
+  },
+  {
+    "id": 77,
+    "name": "Helzephyr",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Transporting": 3
+    }
+  },
+  {
+    "id": 78,
+    "name": "Helzephyr Lux",
+    "elements": [
+      "Electric",
+      "Dark"
+    ],
+    "work": {
+      "Transporting": 3,
+      "Electricity": 3
+    }
+  },
+  {
+    "id": 79,
+    "name": "Herbil",
+    "elements": [
+      "Grass",
+      "Neutral"
+    ],
+    "work": {
+      "Planting": 2,
+      "Transporting": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 80,
+    "name": "Icelyn",
+    "elements": [
+      "Ice"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Medicine Production": 2,
+      "Transporting": 1,
+      "Cooling": 3
+    }
+  },
+  {
+    "id": 81,
+    "name": "Illuminant Slime",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Transporting": 1
+    }
+  },
+  {
+    "id": 82,
+    "name": "Incineram",
+    "elements": [
+      "Fire",
+      "Dark"
+    ],
+    "work": {
+      "Kindling": 1,
+      "Handiwork": 2,
+      "Transporting": 2,
+      "Mining": 1
+    }
+  },
+  {
+    "id": 83,
+    "name": "Incineram Noct",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Transporting": 2,
+      "Mining": 1
+    }
+  },
+  {
+    "id": 84,
+    "name": "Jelliette",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Watering": 2
+    }
+  },
+  {
+    "id": 85,
+    "name": "Jellroy",
+    "elements": [
+      "Water",
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Medicine Production": 1,
+      "Transporting": 1,
+      "Watering": 2
+    }
+  },
+  {
+    "id": 86,
+    "name": "Jormuntide",
+    "elements": [
+      "Water",
+      "Dragon"
+    ],
+    "work": {
+      "Watering": 4
+    }
+  },
+  {
+    "id": 87,
+    "name": "Jormuntide Ignis",
+    "elements": [
+      "Fire",
+      "Dragon"
+    ],
+    "work": {
+      "Kindling": 4
+    }
+  },
+  {
+    "id": 88,
+    "name": "Katress",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Medicine Production": 2,
+      "Transporting": 2
+    }
+  },
+  {
+    "id": 89,
+    "name": "Katress Ignis",
+    "elements": [
+      "Fire",
+      "Dark"
+    ],
+    "work": {
+      "Kindling": 2,
+      "Handiwork": 2,
+      "Medicine Production": 2,
+      "Transporting": 2
+    }
+  },
+  {
+    "id": 90,
+    "name": "Kelpsea",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Watering": 1,
+      "Farming": 1
+    }
+  },
+  {
+    "id": 91,
+    "name": "Kelpsea Ignis",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 1,
+      "Farming": 1
+    }
+  },
+  {
+    "id": 92,
+    "name": "Kikit",
+    "elements": [
+      "Ground"
+    ],
+    "work": {
+      "Mining": 1
+    }
+  },
+  {
+    "id": 93,
+    "name": "Killamari",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Transporting": 2,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 94,
+    "name": "Killamari Primo",
+    "elements": [
+      "Water",
+      "Neutral"
+    ],
+    "work": {
+      "Transporting": 2,
+      "Watering": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 95,
+    "name": "Kitsun",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 2
+    }
+  },
+  {
+    "id": 96,
+    "name": "Kitsun Noct",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Kindling": 2
+    }
+  },
+  {
+    "id": 97,
+    "name": "Knocklem",
+    "elements": [
+      "Ground"
+    ],
+    "work": {
+      "Transporting": 4,
+      "Gathering": 3,
+      "Mining": 4
+    }
+  },
+  {
+    "id": 98,
+    "name": "Lamball",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Farming": 1
+    }
+  },
+  {
+    "id": 99,
+    "name": "Leezpunk",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 100,
+    "name": "Leezpunk Ignis",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 1,
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 101,
+    "name": "Lifmunk",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 1,
+      "Handiwork": 1,
+      "Lumbering": 1,
+      "Medicine Production": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 102,
+    "name": "Lovander",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Medicine Production": 2,
+      "Transporting": 2,
+      "Mining": 1
+    }
+  },
+  {
+    "id": 103,
+    "name": "Lullu",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 2,
+      "Handiwork": 2,
+      "Medicine Production": 2,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 104,
+    "name": "Lunaris",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Handiwork": 3,
+      "Transporting": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 105,
+    "name": "Lyleen",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 4,
+      "Handiwork": 3,
+      "Medicine Production": 3,
+      "Gathering": 2
+    }
+  },
+  {
+    "id": 106,
+    "name": "Lyleen Noct",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 3,
+      "Medicine Production": 3,
+      "Gathering": 2
+    }
+  },
+  {
+    "id": 107,
+    "name": "Mammorest",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 2,
+      "Lumbering": 2,
+      "Mining": 2
+    }
+  },
+  {
+    "id": 108,
+    "name": "Mammorest Cryst",
+    "elements": [
+      "Ice"
+    ],
+    "work": {
+      "Lumbering": 2,
+      "Mining": 2,
+      "Cooling": 2
+    }
+  },
+  {
+    "id": 109,
+    "name": "Maraith",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Gathering": 2,
+      "Mining": 1
+    }
+  },
+  {
+    "id": 110,
+    "name": "Menasting",
+    "elements": [
+      "Ground",
+      "Dark"
+    ],
+    "work": {
+      "Lumbering": 2,
+      "Mining": 3
+    }
+  },
+  {
+    "id": 111,
+    "name": "Menasting Terra",
+    "elements": [
+      "Ground"
+    ],
+    "work": {
+      "Lumbering": 2,
+      "Mining": 3
+    }
+  },
+  {
+    "id": 112,
+    "name": "Mossanda",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 2,
+      "Handiwork": 2,
+      "Lumbering": 2,
+      "Transporting": 3
+    }
+  },
+  {
+    "id": 113,
+    "name": "Mossanda Lux",
+    "elements": [
+      "Electric"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Lumbering": 2,
+      "Transporting": 3,
+      "Electricity": 2
+    }
+  },
+  {
+    "id": 114,
+    "name": "Munchill",
+    "elements": [
+      "Water",
+      "Ice"
+    ],
+    "work": {
+      "Transporting": 1,
+      "Watering": 1,
+      "Cooling": 2
+    }
+  },
+  {
+    "id": 115,
+    "name": "Necromus",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Lumbering": 2,
+      "Mining": 2
+    }
+  },
+  {
+    "id": 116,
+    "name": "Neptilius",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Watering": 4
+    }
+  },
+  {
+    "id": 117,
+    "name": "Nitemary",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 3,
+      "Transporting": 2
+    }
+  },
+  {
+    "id": 118,
+    "name": "Nyafia",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 3,
+      "Lumbering": 2,
+      "Transporting": 2,
+      "Gathering": 2
+    }
+  },
+  {
+    "id": 119,
+    "name": "Orserk",
+    "elements": [
+      "Electric",
+      "Dragon"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Transporting": 3,
+      "Electricity": 4
+    }
+  },
+  {
+    "id": 120,
+    "name": "Paladius",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Lumbering": 2,
+      "Mining": 2
+    }
+  },
+  {
+    "id": 121,
+    "name": "Palumba",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 2,
+      "Gathering": 2,
+      "Mining": 3
+    }
+  },
+  {
+    "id": 122,
+    "name": "Pengullet",
+    "elements": [
+      "Water",
+      "Ice"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Watering": 1,
+      "Cooling": 1
+    }
+  },
+  {
+    "id": 123,
+    "name": "Pengullet Lux",
+    "elements": [
+      "Water",
+      "Electric"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Watering": 1,
+      "Electricity": 2
+    }
+  },
+  {
+    "id": 124,
+    "name": "Penking",
+    "elements": [
+      "Water",
+      "Ice"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Transporting": 2,
+      "Watering": 2,
+      "Mining": 2,
+      "Cooling": 2
+    }
+  },
+  {
+    "id": 125,
+    "name": "Penking Lux",
+    "elements": [
+      "Water",
+      "Electric"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Transporting": 2,
+      "Watering": 2,
+      "Electricity": 2,
+      "Mining": 2
+    }
+  },
+  {
+    "id": 126,
+    "name": "Petallia",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 3,
+      "Handiwork": 2,
+      "Medicine Production": 2,
+      "Transporting": 1,
+      "Gathering": 2
+    }
+  },
+  {
+    "id": 127,
+    "name": "Polapup",
+    "elements": [
+      "Water",
+      "Ice"
+    ],
+    "work": {
+      "Watering": 2,
+      "Cooling": 3
+    }
+  },
+  {
+    "id": 128,
+    "name": "Prixter",
+    "elements": [
+      "Ground",
+      "Dark"
+    ],
+    "work": {
+      "Lumbering": 3,
+      "Medicine Production": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 129,
+    "name": "Prunelia",
+    "elements": [
+      "Grass",
+      "Dark"
+    ],
+    "work": {
+      "Planting": 3,
+      "Handiwork": 1,
+      "Medicine Production": 3,
+      "Transporting": 1,
+      "Gathering": 2
+    }
+  },
+  {
+    "id": 130,
+    "name": "Purple Slime",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Transporting": 1
+    }
+  },
+  {
+    "id": 131,
+    "name": "Pyrin",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 2,
+      "Lumbering": 1
+    }
+  },
+  {
+    "id": 132,
+    "name": "Pyrin Noct",
+    "elements": [
+      "Fire",
+      "Dark"
+    ],
+    "work": {
+      "Kindling": 2,
+      "Lumbering": 1
+    }
+  },
+  {
+    "id": 133,
+    "name": "Quivern",
+    "elements": [
+      "Dragon"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 3,
+      "Gathering": 2,
+      "Mining": 2
+    }
+  },
+  {
+    "id": 134,
+    "name": "Quivern Botan",
+    "elements": [
+      "Grass",
+      "Dragon"
+    ],
+    "work": {
+      "Planting": 2,
+      "Handiwork": 1,
+      "Transporting": 3,
+      "Gathering": 2,
+      "Mining": 2
+    }
+  },
+  {
+    "id": 135,
+    "name": "Ragnahawk",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 3,
+      "Transporting": 3
+    }
+  },
+  {
+    "id": 136,
+    "name": "Rainbow Slime",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Transporting": 1
+    }
+  },
+  {
+    "id": 137,
+    "name": "Red Slime",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Transporting": 1
+    }
+  },
+  {
+    "id": 138,
+    "name": "Reindrix",
+    "elements": [
+      "Ice"
+    ],
+    "work": {
+      "Lumbering": 2
+    }
+  },
+  {
+    "id": 139,
+    "name": "Relaxaurus",
+    "elements": [
+      "Water",
+      "Dragon"
+    ],
+    "work": {
+      "Transporting": 1,
+      "Watering": 2
+    }
+  },
+  {
+    "id": 140,
+    "name": "Relaxaurus Lux",
+    "elements": [
+      "Electric",
+      "Dragon"
+    ],
+    "work": {
+      "Transporting": 1,
+      "Electricity": 3
+    }
+  },
+  {
+    "id": 141,
+    "name": "Reptyro",
+    "elements": [
+      "Fire",
+      "Ground"
+    ],
+    "work": {
+      "Kindling": 3,
+      "Mining": 3
+    }
+  },
+  {
+    "id": 142,
+    "name": "Reptyro Cryst",
+    "elements": [
+      "Ice",
+      "Ground"
+    ],
+    "work": {
+      "Mining": 3,
+      "Cooling": 3
+    }
+  },
+  {
+    "id": 143,
+    "name": "Ribbuny",
+    "elements": [
+      "Neutral"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 144,
+    "name": "Ribbuny Botan",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 1,
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 145,
+    "name": "Robinquill",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 1,
+      "Handiwork": 2,
+      "Lumbering": 1,
+      "Medicine Production": 1,
+      "Transporting": 2,
+      "Gathering": 2
+    }
+  },
+  {
+    "id": 146,
+    "name": "Robinquill Terra",
+    "elements": [
+      "Grass",
+      "Ground"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Lumbering": 1,
+      "Medicine Production": 1,
+      "Transporting": 2,
+      "Gathering": 2
+    }
+  },
+  {
+    "id": 147,
+    "name": "Rooby",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 1
+    }
+  },
+  {
+    "id": 148,
+    "name": "Rushoar",
+    "elements": [
+      "Ground"
+    ],
+    "work": {
+      "Mining": 1
+    }
+  },
+  {
+    "id": 149,
+    "name": "Selyne",
+    "elements": [
+      "Dark",
+      "Neutral"
+    ],
+    "work": {
+      "Handiwork": 4,
+      "Medicine Production": 3,
+      "Transporting": 3
+    }
+  },
+  {
+    "id": 150,
+    "name": "Shroomer",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 2,
+      "Handiwork": 1,
+      "Lumbering": 2,
+      "Gathering": 2
+    }
+  },
+  {
+    "id": 151,
+    "name": "Shroomer Noct",
+    "elements": [
+      "Grass",
+      "Dark"
+    ],
+    "work": {
+      "Planting": 2,
+      "Handiwork": 1,
+      "Lumbering": 2,
+      "Gathering": 2
+    }
+  },
+  {
+    "id": 152,
+    "name": "Sibelyx",
+    "elements": [
+      "Ice"
+    ],
+    "work": {
+      "Medicine Production": 2,
+      "Cooling": 2,
+      "Farming": 1
+    }
+  },
+  {
+    "id": 153,
+    "name": "Silvegis",
+    "elements": [
+      "Dragon"
+    ],
+    "work": {
+      "Lumbering": 3
+    }
+  },
+  {
+    "id": 154,
+    "name": "Sootseer",
+    "elements": [
+      "Fire",
+      "Dark"
+    ],
+    "work": {
+      "Kindling": 3,
+      "Handiwork": 2,
+      "Gathering": 1,
+      "Mining": 2,
+      "Farming": 1
+    }
+  },
+  {
+    "id": 155,
+    "name": "Sparkit",
+    "elements": [
+      "Electric"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 1,
+      "Electricity": 1
+    }
+  },
+  {
+    "id": 156,
+    "name": "Special Flower Gumoss",
+    "elements": [
+      "Grass",
+      "Ground"
+    ],
+    "work": {
+      "Planting": 1
+    }
+  },
+  {
+    "id": 157,
+    "name": "Splatterina",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 4,
+      "Lumbering": 1,
+      "Medicine Production": 3,
+      "Transporting": 2
+    }
+  },
+  {
+    "id": 158,
+    "name": "Surfent",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Watering": 2
+    }
+  },
+  {
+    "id": 159,
+    "name": "Suzaku",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 3
+    }
+  },
+  {
+    "id": 160,
+    "name": "Suzaku Aqua",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Watering": 3
+    }
+  },
+  {
+    "id": 161,
+    "name": "Tanzee",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 1,
+      "Handiwork": 1,
+      "Lumbering": 1,
+      "Transporting": 1,
+      "Gathering": 1
+    }
+  },
+  {
+    "id": 162,
+    "name": "Tarantriss",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Medicine Production": 2,
+      "Transporting": 2,
+      "Gathering": 2
+    }
+  },
+  {
+    "id": 163,
+    "name": "Teafant",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Watering": 1
+    }
+  },
+  {
+    "id": 164,
+    "name": "Tombat",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Transporting": 2,
+      "Gathering": 2,
+      "Mining": 2
+    }
+  },
+  {
+    "id": 165,
+    "name": "Turtacle",
+    "elements": [
+      "Water"
+    ],
+    "work": {
+      "Transporting": 1,
+      "Watering": 2,
+      "Mining": 1
+    }
+  },
+  {
+    "id": 166,
+    "name": "Turtacle Terra",
+    "elements": [
+      "Water",
+      "Ground"
+    ],
+    "work": {
+      "Planting": 4,
+      "Transporting": 1,
+      "Mining": 1
+    }
+  },
+  {
+    "id": 167,
+    "name": "Univolt",
+    "elements": [
+      "Electric"
+    ],
+    "work": {
+      "Lumbering": 1,
+      "Electricity": 2
+    }
+  },
+  {
+    "id": 168,
+    "name": "Vaelet",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 2,
+      "Handiwork": 2,
+      "Medicine Production": 3,
+      "Transporting": 1,
+      "Gathering": 2
+    }
+  },
+  {
+    "id": 169,
+    "name": "Vanwyrm",
+    "elements": [
+      "Fire",
+      "Dark"
+    ],
+    "work": {
+      "Kindling": 1,
+      "Transporting": 3
+    }
+  },
+  {
+    "id": 170,
+    "name": "Vanwyrm Cryst",
+    "elements": [
+      "Ice",
+      "Dark"
+    ],
+    "work": {
+      "Transporting": 3,
+      "Cooling": 2
+    }
+  },
+  {
+    "id": 171,
+    "name": "Verdash",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 2,
+      "Handiwork": 3,
+      "Lumbering": 2,
+      "Transporting": 2,
+      "Gathering": 3
+    }
+  },
+  {
+    "id": 172,
+    "name": "Warsect",
+    "elements": [
+      "Grass",
+      "Ground"
+    ],
+    "work": {
+      "Planting": 1,
+      "Handiwork": 1,
+      "Lumbering": 3,
+      "Transporting": 3
+    }
+  },
+  {
+    "id": 173,
+    "name": "Warsect Terra",
+    "elements": [
+      "Ground"
+    ],
+    "work": {
+      "Handiwork": 1,
+      "Transporting": 3,
+      "Mining": 3
+    }
+  },
+  {
+    "id": 174,
+    "name": "Whalaska",
+    "elements": [
+      "Water",
+      "Ice"
+    ],
+    "work": {
+      "Watering": 3,
+      "Cooling": 4
+    }
+  },
+  {
+    "id": 175,
+    "name": "Whalaska Ignis",
+    "elements": [
+      "Fire",
+      "Ice"
+    ],
+    "work": {
+      "Kindling": 3,
+      "Cooling": 4
+    }
+  },
+  {
+    "id": 176,
+    "name": "Wixen",
+    "elements": [
+      "Fire"
+    ],
+    "work": {
+      "Kindling": 2,
+      "Handiwork": 3,
+      "Transporting": 2
+    }
+  },
+  {
+    "id": 177,
+    "name": "Wixen Noct",
+    "elements": [
+      "Fire",
+      "Dark"
+    ],
+    "work": {
+      "Kindling": 2,
+      "Handiwork": 3,
+      "Transporting": 2
+    }
+  },
+  {
+    "id": 178,
+    "name": "Wumpo",
+    "elements": [
+      "Ice"
+    ],
+    "work": {
+      "Handiwork": 2,
+      "Lumbering": 3,
+      "Transporting": 4,
+      "Cooling": 2
+    }
+  },
+  {
+    "id": 179,
+    "name": "Wumpo Botan",
+    "elements": [
+      "Grass"
+    ],
+    "work": {
+      "Planting": 1,
+      "Handiwork": 2,
+      "Lumbering": 3,
+      "Transporting": 4
+    }
+  },
+  {
+    "id": 180,
+    "name": "Xenogard",
+    "elements": [
+      "Dragon"
+    ],
+    "work": {
+      "Mining": 3
+    }
+  },
+  {
+    "id": 181,
+    "name": "Xenovader",
+    "elements": [
+      "Dark"
+    ],
+    "work": {
+      "Lumbering": 2,
+      "Transporting": 2
+    }
+  }
+]
