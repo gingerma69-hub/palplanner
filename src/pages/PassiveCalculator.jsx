@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import passiveSkills from "../data/passiveSkills.json";
-import { statNames } from "../data/statNames";
+import { statNames } from "../data/statsNames";
 import { calculatePassiveEffects } from "../utils/calculatePassiveEffects";
 
 const emptySelection = ["", "", "", ""];
