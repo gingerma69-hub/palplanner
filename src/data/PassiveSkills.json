@@ -1,0 +1,1599 @@
+[
+  {
+    "name": "Abnormal",
+    "positive": [
+      "10% decrease to incoming Neutral damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "neutralDamageReduction",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Ace Swimmer",
+    "positive": [
+      "40.0% increase movement speed on water."
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "waterMovementSpeed",
+        "value": 40.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Aggressive",
+    "positive": [
+      "Attack +10%"
+    ],
+    "negative": [
+      "Defense -10%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "attack",
+        "value": 10.0,
+        "type": "percent"
+      },
+      {
+        "stat": "defense",
+        "value": -10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Artisan",
+    "positive": [
+      "Work Speed +50%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "workSpeed",
+        "value": 50.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Blood of the Dragon",
+    "positive": [
+      "10% increase to Dragon attack damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "dragonDamage",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Botanical Barrier",
+    "positive": [
+      "10% decrease to incoming Grass damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "grassDamageReduction",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Bottomless Stomach",
+    "positive": [],
+    "negative": [
+      "Satiety drops +15% faster"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "satietyDrain",
+        "value": 15,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Brave",
+    "positive": [
+      "Attack +10%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "attack",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Brittle",
+    "positive": [],
+    "negative": [
+      "Defense -20%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "defense",
+        "value": -20.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Burly Body",
+    "positive": [
+      "Defense +20%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "defense",
+        "value": 20.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Capacitor",
+    "positive": [
+      "10% increase to Electric attack damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "electricDamage",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Celestial Emperor",
+    "positive": [
+      "20% increase to Neutral attack damage"
+    ],
+    "negative": [],
+    "exclusive": true,
+    "exclusiveSource": [
+      "Paladius"
+    ],
+    "effects": [
+      {
+        "stat": "neutralDamage",
+        "value": 40.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Cheery",
+    "positive": [
+      "10% decrease to incoming Dark damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "darkDamageReduction",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Clumsy",
+    "positive": [],
+    "negative": [
+      "Work Speed -10%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "workSpeed",
+        "value": -10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Coldblooded",
+    "positive": [
+      "10% increase to Ice attack damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "iceDamage",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Conceited",
+    "positive": [
+      "Work Speed +10%"
+    ],
+    "negative": [
+      "Defense -10%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "workSpeed",
+        "value": 10.0,
+        "type": "percent"
+      },
+      {
+        "stat": "defense",
+        "value": -10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Coward",
+    "positive": [],
+    "negative": [
+      "Attack -10%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "attack",
+        "value": -10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Dainty Eater",
+    "positive": [
+      "Satiety drops +10% slower"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "satietyDrain",
+        "value": -10,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Demon God",
+    "positive": [
+      "Attack +30%, Defense +5%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "attack",
+        "value": 30.0,
+        "type": "percent"
+      },
+      {
+        "stat": "defense",
+        "value": 5.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Destructive",
+    "positive": [],
+    "negative": [
+      "SAN drops +15% faster"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "sanityDrain",
+        "value": 15,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Diamond Body",
+    "positive": [
+      "Defense +30%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "defense",
+        "value": 30.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Diet Lover",
+    "positive": [
+      "Decrease in Hunger is less likely by +15%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "hungerDecreaseChance",
+        "value": -15,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Divine Dragon",
+    "positive": [
+      "20% increase to Dragon attack damage"
+    ],
+    "negative": [],
+    "exclusive": true,
+    "exclusiveSource": [
+      "Jetragon"
+    ],
+    "effects": [
+      {
+        "stat": "dragonDamage",
+        "value": 40.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Downtrodden",
+    "positive": [],
+    "negative": [
+      "Defense -10%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "defense",
+        "value": -10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Dragonkiller",
+    "positive": [
+      "10% decrease to incoming Dragon damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "dragonDamageReduction",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Earth Emperor",
+    "positive": [
+      "20% increase to Ground attack damage"
+    ],
+    "negative": [],
+    "exclusive": true,
+    "exclusiveSource": [
+      "Anubis"
+    ],
+    "effects": [
+      {
+        "stat": "groundDamage",
+        "value": 40.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Earthquake Resistant",
+    "positive": [
+      "10% decrease to incoming Ground damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "groundDamageReduction",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Easygoing",
+    "positive": [],
+    "negative": [
+      "Active skill cooldown extension -15%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "activeSkillCooldown",
+        "value": 15.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Eternal Engine",
+    "positive": [
+      "Max stamina +75%, This effect is only valid for rideable pals"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "stamina",
+        "value": 150.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Eternal Flame",
+    "positive": [
+      "30% increase to Fire attack damage, 30% increase to Lightning attack damage"
+    ],
+    "negative": [],
+    "exclusive": true,
+    "exclusiveSource": [
+      "Blazamut Ryu"
+    ],
+    "effects": [
+      {
+        "stat": "fireDamage",
+        "value": 60.0,
+        "type": "percent"
+      },
+      {
+        "stat": "electricDamage",
+        "value": 60.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Ferocious",
+    "positive": [
+      "Attack +20%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "attack",
+        "value": 20.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Fine Furs",
+    "positive": [
+      "Sale price 3%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "salePrice",
+        "value": 3,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Fit as a Fiddle",
+    "positive": [
+      "Max Stamina +25% (This effect is only valid for rideable pals.)"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "stamina",
+        "value": 50.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Flame Emperor",
+    "positive": [
+      "20% increase to Fire attack damage"
+    ],
+    "negative": [],
+    "exclusive": true,
+    "exclusiveSource": [
+      "Blazamut"
+    ],
+    "effects": [
+      {
+        "stat": "fireDamage",
+        "value": 40.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Fragrant Foliage",
+    "positive": [
+      "10% increase to Grass attack damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "grassDamage",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Glutton",
+    "positive": [],
+    "negative": [
+      "Satiety drops +10% faster"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "satietyDrain",
+        "value": 10,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Hard Skin",
+    "positive": [
+      "Defense +10%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "defense",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Heart of the Immovable King",
+    "positive": [
+      "SAN drops +20.0% slower"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "sanityDrain",
+        "value": -20,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Heated Body",
+    "positive": [
+      "10% decrease to incoming Ice damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "iceDamageReduction",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Hooligan",
+    "positive": [
+      "Attack +15%"
+    ],
+    "negative": [
+      "Work Speed -10%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "attack",
+        "value": 15.0,
+        "type": "percent"
+      },
+      {
+        "stat": "workSpeed",
+        "value": -10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Hydromaniac",
+    "positive": [
+      "10% increase to Water attack damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "waterDamage",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Ice Emperor",
+    "positive": [
+      "20% increase to Ice attack damage"
+    ],
+    "negative": [],
+    "exclusive": true,
+    "exclusiveSource": [
+      "Frostallion"
+    ],
+    "effects": [
+      {
+        "stat": "iceDamage",
+        "value": 40.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Impatient",
+    "positive": [
+      "Active skill cooldown reduction 15.0%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "activeSkillCooldown",
+        "value": -15.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Infinite Stamina",
+    "positive": [
+      "Max Stamina +50% (This effect is only valid for rideable pals.)"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "stamina",
+        "value": 100.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Insulated Body",
+    "positive": [
+      "10% decrease to incoming Lightning damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "electricDamageReduction",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Invader",
+    "positive": [
+      "30% increase in Dark attack damage. 30% increase in Dragon attack damage"
+    ],
+    "negative": [],
+    "exclusive": true,
+    "exclusiveSource": [
+      "Xenolord"
+    ],
+    "effects": [
+      {
+        "stat": "dragonDamage",
+        "value": 60.0,
+        "type": "percent"
+      },
+      {
+        "stat": "darkDamage",
+        "value": 60.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "King of the Waves",
+    "positive": [
+      "50.0% increase movement speed on water."
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "waterMovementSpeed",
+        "value": 50.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Legend",
+    "positive": [
+      "Attack +20%, Defense +20%, and Movement Speed +15%"
+    ],
+    "negative": [],
+    "exclusive": true,
+    "exclusiveSource": [
+      "Frostallion",
+      "Jetragon",
+      "Necromus",
+      "Paladius"
+    ],
+    "effects": [
+      {
+        "stat": "attack",
+        "value": 40.0,
+        "type": "percent"
+      },
+      {
+        "stat": "defense",
+        "value": 40.0,
+        "type": "percent"
+      },
+      {
+        "stat": "movementSpeed",
+        "value": 30.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Logging Foreman",
+    "positive": [
+      "25% increase to Player Logging Efficiency"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "playerLogging",
+        "value": 25.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Lord of Lightning",
+    "positive": [
+      "20% increase to Electric attack damage"
+    ],
+    "negative": [],
+    "exclusive": true,
+    "exclusiveSource": [
+      "Orserk"
+    ],
+    "effects": [
+      {
+        "stat": "electricDamage",
+        "value": 40.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Lord of the Sea",
+    "positive": [
+      "20% increase to Water attack damage"
+    ],
+    "negative": [],
+    "exclusive": true,
+    "exclusiveSource": [
+      "Jormuntide"
+    ],
+    "effects": [
+      {
+        "stat": "waterDamage",
+        "value": 40.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Lord of the Underworld",
+    "positive": [
+      "20% increase to Dark attack damage"
+    ],
+    "negative": [],
+    "exclusive": true,
+    "exclusiveSource": [
+      "Necromus"
+    ],
+    "effects": [
+      {
+        "stat": "darkDamage",
+        "value": 40.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Lucky",
+    "positive": [
+      "Work Speed +15% and Attack +15%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "workSpeed",
+        "value": 15.0,
+        "type": "percent"
+      },
+      {
+        "stat": "attack",
+        "value": 15.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Lunker",
+    "positive": [
+      "20% increase to Water attack damage, 20% increase to Ice attack damage, 20% increase to Defense."
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "waterDamage",
+        "value": 20.0,
+        "type": "percent"
+      },
+      {
+        "stat": "iceDamage",
+        "value": 20.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Masochist",
+    "positive": [
+      "Defense +15%"
+    ],
+    "negative": [
+      "Attack -15%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "defense",
+        "value": 15.0,
+        "type": "percent"
+      },
+      {
+        "stat": "attack",
+        "value": -15.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Mastery of Fasting",
+    "positive": [
+      "Hunger decreases +20.0% slower"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "satietyDrain",
+        "value": -20,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Mercy Hit",
+    "positive": [],
+    "negative": [
+      "Pacifist. Will not reduce the target's health below 1."
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "mercyHit",
+        "value": true,
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "name": "Mine Foreman",
+    "positive": [
+      "25% increase to Player Mining Efficiency"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "playerMining",
+        "value": 25.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Motivational Leader",
+    "positive": [
+      "25% increase to Player Work Speed."
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "playerWorkSpeed",
+        "value": 25.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Musclehead",
+    "positive": [
+      "Attack +30%"
+    ],
+    "negative": [
+      "Work Speed -50%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "attack",
+        "value": 30.0,
+        "type": "percent"
+      },
+      {
+        "stat": "workSpeed",
+        "value": -50.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Nimble",
+    "positive": [
+      "10% increase to movement speed"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": []
+  },
+  {
+    "name": "Noble",
+    "positive": [
+      "Sale Price +5%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "salePrice",
+        "value": 5,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Nocturnal",
+    "positive": [
+      "The Pal does not sleep at night and continues to work."
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "nocturnal",
+        "value": true,
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "name": "Otherworldly Cells",
+    "positive": [
+      "Attack +10.0%, Fire damage reduction 15.0%, Lightning damage reduction 15.0%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "attack",
+        "value": 10.0,
+        "type": "percent"
+      },
+      {
+        "stat": "fireDamageReduction",
+        "value": 15.0,
+        "type": "percent"
+      },
+      {
+        "stat": "electricDamageReduction",
+        "value": 15.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Pacifist",
+    "positive": [],
+    "negative": [
+      "Attack -20%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "attack",
+        "value": -20.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Philanthropist",
+    "positive": [
+      "When assigned to a Breeding Farm, egg production time is reduced by 100%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "breedingSpeed",
+        "value": 100,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Positive Thinker",
+    "positive": [
+      "SAN drops +10% slower"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "sanityDrain",
+        "value": -10,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Power of Gaia",
+    "positive": [
+      "10% increase to Ground attack damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "groundDamage",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Pyromaniac",
+    "positive": [
+      "10% increase to Fire attack damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "fireDamage",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Remarkable Craftsmanship",
+    "positive": [
+      "Work Speed +75%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "workSpeed",
+        "value": 75.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Runner",
+    "positive": [
+      "20% increase to movement speed"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": []
+  },
+  {
+    "name": "Sadist",
+    "positive": [
+      "Attack +15%"
+    ],
+    "negative": [
+      "Defense -15%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "attack",
+        "value": 15.0,
+        "type": "percent"
+      },
+      {
+        "stat": "defense",
+        "value": -15.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Savior",
+    "positive": [
+      "30% increase in Neutral attack damage. 30% increase in Grass attack damage."
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "neutralDamage",
+        "value": 30.0,
+        "type": "percent"
+      },
+      {
+        "stat": "grassDamage",
+        "value": 30.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Serenity",
+    "positive": [
+      "Active skill cooldown reduction 30.0%. Attack +10.0%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "attack",
+        "value": 10.0,
+        "type": "percent"
+      },
+      {
+        "stat": "activeSkillCooldown",
+        "value": -30.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Serious",
+    "positive": [
+      "Work Speed +20%"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "workSpeed",
+        "value": 20.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Shabby",
+    "positive": [],
+    "negative": [
+      "Sale price -10%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "salePrice",
+        "value": -10,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Sickly",
+    "positive": [],
+    "negative": [
+      "Max Stamina -25% (This effect is only valid for rideable pals.)"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "stamina",
+        "value": -50.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Siren of the Void",
+    "positive": [
+      "30% increase to Dark attack damage, 30% increase to Ice attack damage"
+    ],
+    "negative": [],
+    "exclusive": true,
+    "exclusiveSource": [
+      "Bellanoir Libero"
+    ],
+    "effects": [
+      {
+        "stat": "iceDamage",
+        "value": 60.0,
+        "type": "percent"
+      },
+      {
+        "stat": "darkDamage",
+        "value": 60.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Slacker",
+    "positive": [],
+    "negative": [
+      "Work Speed -30%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "workSpeed",
+        "value": -30.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Sleek Stroke",
+    "positive": [
+      "30.0% increase movement speed on water."
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "waterMovementSpeed",
+        "value": 30.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Spirit Emperor",
+    "positive": [
+      "20% increase to Grass attack damage"
+    ],
+    "negative": [],
+    "exclusive": true,
+    "exclusiveSource": [
+      "Lyleen"
+    ],
+    "effects": [
+      {
+        "stat": "grassDamage",
+        "value": 40.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Stronghold Strategist",
+    "positive": [
+      "10% increase to Player Defense"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "playerDefense",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Suntan Lover",
+    "positive": [
+      "10% decrease to incoming Fire damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "fireDamageReduction",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Swift",
+    "positive": [
+      "30% increase to movement speed"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": []
+  },
+  {
+    "name": "Unstable",
+    "positive": [],
+    "negative": [
+      "SAN drops +10% faster"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "sanityDrain",
+        "value": 10,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Vampiric",
+    "positive": [
+      "Absorbs a portion of the damage dealt to restore. Does not sleep at night and continues to work."
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "nocturnal",
+        "value": true,
+        "type": "boolean"
+      },
+      {
+        "stat": "lifeSteal",
+        "value": true,
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "name": "Vanguard",
+    "positive": [
+      "10% increase to Player Attack"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "playerAttack",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Veil of Darkness",
+    "positive": [
+      "10% increase to Dark attack damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "darkDamage",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Waterproof",
+    "positive": [
+      "10% decrease to incoming Water damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "waterDamageReduction",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Work Slave",
+    "positive": [
+      "Work Speed +30%"
+    ],
+    "negative": [
+      "Attack -30%"
+    ],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "workSpeed",
+        "value": 30.0,
+        "type": "percent"
+      },
+      {
+        "stat": "attack",
+        "value": -30.0,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Workaholic",
+    "positive": [
+      "SAN drops +15% slower"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "sanityDrain",
+        "value": -15,
+        "type": "percent"
+      }
+    ]
+  },
+  {
+    "name": "Zen Mind",
+    "positive": [
+      "10% increase to Neutral attack damage"
+    ],
+    "negative": [],
+    "exclusive": false,
+    "exclusiveSource": [],
+    "effects": [
+      {
+        "stat": "neutralDamage",
+        "value": 10.0,
+        "type": "percent"
+      }
+    ]
+  }
+]
